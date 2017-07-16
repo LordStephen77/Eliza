@@ -13,5 +13,5 @@ L'ho aggiornato in maniera significativa per utilizzare una forma più moderna p
 ma i modelli di testo nelle strutture di dati riflessivi vengono copiati in modo verbale.
 <br>
 
-Noterete che la maggior parte del codice sorgente è composta da un dizionario chiamato reflections e un elenco di strinche
+Noterete che la maggior parte del codice sorgente è composta da un dizionario chiamato reflections e un elenco di stringhe
 chiamate *psicobabble*. **ELIZA** è fondamentalmente un programma di corrispondenza del modello. Non c'è molto di più di quello.
