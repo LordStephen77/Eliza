@@ -14,4 +14,4 @@ ma i modelli di testo nelle strutture di dati riflessivi vengono copiati in modo
 <br>
 
 Noterete che la maggior parte del codice sorgente è composta da un dizionario chiamato reflections e un elenco di stringhe
-chiamate *psicobabble*. **ELIZA** è fondamentalmente un programma di corrispondenza del modello. Non c'è molto di più di quello.
+chiamate *psicobabble*. **ELIZA** è fondamentalmente uno script con semplici istruzioni condizionali. Non c'è molto di più di questo.
